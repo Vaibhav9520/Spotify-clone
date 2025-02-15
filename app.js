@@ -1,5 +1,6 @@
 console.log("Welcome to spotify - Web Player");
 
+
 document.addEventListener("DOMContentLoaded", function () {
   const menuToggle = document.getElementById("menu-toggle");
   const navbarMenu = document.querySelector(".sidebar");
